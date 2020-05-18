@@ -1,0 +1,23 @@
+.circleTimer {
+
+    text-align: center;
+
+}
+
+.digitalTimer {
+    margin-top: -275px;
+    text-align: center;
+}
+
+input {
+    border: none;
+    text-align: center;
+    font-size: 4rem;
+    width: 330px;
+}
+
+button {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    width: 50px;
+}
